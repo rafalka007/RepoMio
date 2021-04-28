@@ -2,6 +2,10 @@ package acme;
 
 import java.io.IOException;
 
+/**
+ *
+ * @author rafa
+ */
 public class Persecucion {
 
 	public static void main(String[] args) throws IOException {
@@ -19,7 +23,15 @@ public class Persecucion {
 		miACMESmartphone.zapRoadRunner(40);
 
 	}
+
+    /**
+     *
+     */
     public static final String SEVILLA1 = "Sevilla";
+
+    /**
+     *
+     */
     public static final String SPAIN = "Spain";
     public static final String SEVILLA = "Sevilla";
     public static final String COYOTE_398978FDSKJ = "coyote_398978fdskj";

@@ -67,6 +67,12 @@ public class Smartphone {
              Coor: Las coordenadas del sitio donde se colocará la trampa
           -Añade también una referencia al método findRoadRunner en la sección "See also" de la documentación del método
         */
+
+    /**
+     *
+     * @param coor
+     */
+
         
         public void prepareTrap(String coor) {
             System.out.println("Trampa lista para ser activada en " + coor);
